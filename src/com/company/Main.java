@@ -13,3 +13,4 @@ public class Main {
         System.out.println("Name:" + name + ". Adress:"+ spc);
     }
 }
+// проверял push
